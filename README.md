@@ -1,7 +1,7 @@
 # photoAnalyzingService
 
 loads images and runs facial recognition on them and alert unknown face through 
-rpc call to an Alerting service
+RPC call to AlertService
 
 
 # references
